@@ -1,3 +1,4 @@
+// this is a seperate file about context which is different from client and server files mentioned.
 package main
 
 import (
